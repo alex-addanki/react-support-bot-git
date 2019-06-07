@@ -1,0 +1,19 @@
+{
+  "name": "support_bot_wip",
+  "version": "1.0.0",
+  "description": "WIP bot code",
+  "main": "index.js",
+  "engines": {
+    "node": "10.9.0",
+    "npm": "6.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Alex Addanki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
